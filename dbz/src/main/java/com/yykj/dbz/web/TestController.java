@@ -26,7 +26,7 @@ private Log log = LogFactory.getLog(this.getClass());
 	@Autowired
 	private TestService testService;
 	
-	
+
 	
 	/**
 	 * 查询右侧协议树总体结构以及自定义树
