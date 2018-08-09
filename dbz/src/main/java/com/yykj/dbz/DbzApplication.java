@@ -10,3 +10,4 @@ public class DbzApplication {
 		SpringApplication.run(DbzApplication.class, args);
 	}
 }
+ 
