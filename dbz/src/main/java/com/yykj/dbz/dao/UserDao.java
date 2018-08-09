@@ -10,6 +10,8 @@ import com.yykj.dbz.vo.User;
 @Mapper
 public interface UserDao {
 
+	
+	
 	public	List<User> getAllUser();
 
 }
